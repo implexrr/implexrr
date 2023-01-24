@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Chenhao</h1>
 <h3 align="center">A aspiring full stack developer from Toronto, Canada</h3>
 
-- 🔭 I’m currently working on [Kanazawa Sushi](https://github.com/implexrr/kanazawa-sushi)
+- 🔭 I’m currently working on [Kanazawa Sushi](https://github.com/implexrr/kanazawa-sushi), a fictional webpage for a sushi restaurant I'd like to open someday.
 
-- 🌱 I’m currently learning **webpack, react, scss**
+- 🌱 I’m currently learning **webpack, react, scss and responsive design**
 
-- 👯 I’m looking to collaborate on **any interesting JS projects**
+- 👯 I’m looking to collaborate on **any interesting web projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/implexrr](https://github.com/implexrr)
 
