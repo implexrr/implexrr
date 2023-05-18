@@ -9,8 +9,6 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/implexrr](https://github.com/implexrr)
 
-- 📝 I regularly write articles on [https://medium.com/@implexrr](https://medium.com/@implexrr)
-
 - 💬 Ask me about **math, programming, music**
 
 - 📫 You can reach me at **implexrr@gmail.com**
@@ -20,8 +18,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/chenhao-wang-8548668b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chenhao-wang-8548668b" height="30" width="40" /></a>
-<a href="https://instagram.com/chenhao.wang.104" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="chenhao.wang.104" height="30" width="40" /></a>
-<a href="https://medium.com/@implexrr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@implexrr" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@implexrr5048" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="implexrr5048" height="30" width="40" /></a>
 </p>
 
